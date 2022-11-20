@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619567515438",
+    "project_id": "percobaanmobile5-8ed44",
+    "storage_bucket": "percobaanmobile5-8ed44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619567515438:android:45bda174c03a2fd0991cbf",
+        "android_client_info": {
+          "package_name": "com.reskidwiramadhaniirawan_f55121050.percobaanmobile5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619567515438-kalh9762370bei9ht92a6uklldp8vk1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeRJeqi9vfLYrrJBxOhE4J06hwsoTnNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619567515438-kalh9762370bei9ht92a6uklldp8vk1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
